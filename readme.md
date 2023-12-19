@@ -4,22 +4,19 @@
 <p>Repositório criado para armazenamento dos primeiros estudos sobre C#.</p>
 </div>
 
-<div align="center">
-<h2>Conteúdo</h2>
-</div>
-
 <div id="conteudo" align="justify">
 
 ## Carreira 01: .NET Developer Fundamentals
 
 ### Módulo 01: Fundamentos do C#
 
-a) Linguagens e Compiladores:
+1. Linguagens e Compiladores:
+
     - [Apresentação](./modulo01/aula01.md).
-    - Linguagens de programação.
+    - [Linguagens de programação](./modulo01/aula02.md).
     - Alto e baixo nível.
     - Linguagem compilada e interpretada.
     - Compilada e interpretada.
     - Tipagem de dados.
 
-b) 
+ 

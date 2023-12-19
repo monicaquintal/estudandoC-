@@ -1,11 +1,6 @@
 <div align="center">
-<a href="https://github.com/monicaquintal" target="_blank"><img align="right" height="100" src="./assets/logo.png" /></a>
-<h1>Estudando C#</h1>
-<h2>Módulo 01: Fundamentos do C#</h2>
-<p>Repositório criado para armazenamento dos primeiros estudos sobre C#.</p>
-</div>
-
-<div align="center">
+<a href="https://github.com/monicaquintal" target="_blank"><img align="left" height="100" src="../assets/logo.png" /></a>
+<h1>Módulo 01: Fundamentos do C#</h1>
 <h2>Linguagens e Compiladores</h2>
 <h3>Aula 01: Apresentação.</h3>
 </div>
