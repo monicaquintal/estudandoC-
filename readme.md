@@ -15,7 +15,7 @@
     - [Apresentação](./modulo01/aula01.md).
     - [Linguagens de programação](./modulo01/aula02.md).
     - [Alto e baixo nível](./modulo01/aula03.md).
-    - Linguagem compilada e interpretada.
+    - [Linguagem compilada e interpretada](./modulo01/aula04.md).
     - Compilada e interpretada.
     - Tipagem de dados.
 
