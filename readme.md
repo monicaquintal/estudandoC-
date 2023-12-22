@@ -19,3 +19,11 @@
     - [Compilada e interpretada](./modulo01/aula05.md).
     - [Tipagem de dados](./modulo01/aula06.md).
 
+2. C#:
+
+    - [Por que utilizar C#?]()
+    - C# como primeira linguagem
+    - Código gerenciado
+    - Compilação e gerenciamento
+    - IL
+
