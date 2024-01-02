@@ -16,7 +16,7 @@
 
 ## 2. IL:
 
-- a Microsoft desenvolveu um ecossistema onde há os compiladores separados, e a compilação inicial gera um `código intermediário`, em `Intermedate Language (IL)`, ou linguagem intermediária.
+- a Microsoft desenvolveu um ecossistema onde há os compiladores separados, e a compilação inicial gera um `código intermediário`, em `Intermediate Language (IL)`, ou linguagem intermediária.
 - quando compilamos o código, é traduzido para IL, e depois compilado, permitindo que haja um gerenciador só, e que haja diferentes tipos de arquivos dentro do mesmo projeto!
 
 ---

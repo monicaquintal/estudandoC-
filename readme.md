@@ -25,6 +25,14 @@
     - [C# como primeira linguagem](./modulo01/aula08.md).
     - [Código gerenciado](./modulo01/aula09.md).
     - [Compilação e gerenciamento](./modulo01/aula10.md).
-    - [IL]().
+    - [IL](./modulo01/aula11.md).
 
 3. Frameworks:
+
+    - Frameworks
+    - .NET Framework
+    - .NET Core
+    - .NET Standard
+    - .NET 5
+    - LTS
+    - Versionamento
