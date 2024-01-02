@@ -13,6 +13,7 @@
 - o CLR recebe um código e o compila para IL, seja proveniente de C#, VB.NET, F#, Cobol.NET.
 - podemos ter arquivos C# e VB.NET no mesmo projeto (mas nunca no mesmo arquivo).
 - o resultado da compilação do IL é sempre o mesmo (código binário).
+  - `JIT` (Just In Time): processo de conversão do IL para binário!
 
 ---
 
