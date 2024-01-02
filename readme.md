@@ -24,7 +24,7 @@
     - [Por que utilizar C#?](./modulo01/aula07.md)
     - [C# como primeira linguagem](./modulo01/aula08.md).
     - [Código gerenciado](./modulo01/aula09.md).
-    - [Compilação e gerenciamento]().
+    - [Compilação e gerenciamento](./modulo01/aula10.md).
     - [IL]().
 
 3. Frameworks:
