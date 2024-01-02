@@ -23,7 +23,7 @@
 
     - [Por que utilizar C#?](./modulo01/aula07.md)
     - [C# como primeira linguagem](./modulo01/aula08.md).
-    - [Código gerenciado]().
+    - [Código gerenciado](./modulo01/aula09.md).
     - [Compilação e gerenciamento]().
     - [IL]().
 
