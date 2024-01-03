@@ -9,7 +9,7 @@
 
 ## 1. Definições:
 
-- arualmente, o .NET Framework e .NET Core coexistem e podem ser instalados na mesma máquina, e podemos utilizar tanto .NET Core quanto .NET Framework no mesmo projeto, o que pode causar confusão.
+- atualmente, o .NET Framework e .NET Core coexistem e podem ser instalados na mesma máquina, e podemos utilizar tanto .NET Core quanto .NET Framework no mesmo projeto, o que pode causar confusão.
 - para garantir que tudo que for criado seja compatível com ambos, há uma padronização chamada `.NET Standard`.
   - é o que chamamos de ***Surface API***, ou seja, não é algo palpável ou visível, apenas um conjunto de definições.
   - ou seja, não "programamos" em .NET Standard! 

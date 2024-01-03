@@ -33,7 +33,7 @@
     - [.NET Framework](./modulo01/aula13.md).
     - [.NET Core](./modulo01/aula14.md).
     - [.NET Standard](./modulo01/aula15.md).
-    - .NET 5
+    - [.NET 5](./modulo01/aula16.md).
     - LTS
     - Versionamento
     - Runtime e SDK
