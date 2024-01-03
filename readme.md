@@ -29,10 +29,11 @@
 
 3. Frameworks:
 
-    - Frameworks
+    - [Frameworks](./modulo01/aula12.md).
     - .NET Framework
     - .NET Core
     - .NET Standard
     - .NET 5
     - LTS
     - Versionamento
+    - Runtime e SDK
