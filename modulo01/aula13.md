@@ -11,9 +11,9 @@
 
 - C# é a linguagem, o framework se chama .NET.
 - primeira versão em meados de 2001, e era chamada .NET Framework.
-- a versão atual é a 4.x, e pode ser instalado side-by-side (versões diferentes).
+- a versão atual é a 4.x, e pode ser instalado side-by-side (você pode ter várias versões do .NET Framework na máquina.).
 - compatível somente com Windows.
-- considerado legado (softwares mais antigos). 
+- considerado legado (softwares mais antigos) - vem sendo descontinuado, dando lugar ao .NET Core (Também com instalação lado-a-lado). 
 
 ---
 

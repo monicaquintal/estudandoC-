@@ -30,8 +30,8 @@
 3. Frameworks:
 
     - [Frameworks](./modulo01/aula12.md).
-    - .NET Framework
-    - .NET Core
+    - [.NET Framework](./modulo01/aula13.md).
+    - [.NET Core](./modulo01/aula14.md).
     - .NET Standard
     - .NET 5
     - LTS
