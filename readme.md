@@ -32,7 +32,7 @@
     - [Frameworks](./modulo01/aula12.md).
     - [.NET Framework](./modulo01/aula13.md).
     - [.NET Core](./modulo01/aula14.md).
-    - .NET Standard
+    - [.NET Standard](./modulo01/aula15.md).
     - .NET 5
     - LTS
     - Versionamento
