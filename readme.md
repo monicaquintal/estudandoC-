@@ -35,5 +35,5 @@
     - [.NET Standard](./modulo01/aula15.md).
     - [.NET 5](./modulo01/aula16.md).
     - [LTS](./modulo01/aula17.md).
-    - Versionamento
+    - [Versionamento](./modulo01/aula18.md).
     - Runtime e SDK
