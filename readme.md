@@ -36,4 +36,4 @@
     - [.NET 5](./modulo01/aula16.md).
     - [LTS](./modulo01/aula17.md).
     - [Versionamento](./modulo01/aula18.md).
-    - Runtime e SDK
+    - [Runtime e SDK](./modulo01/aula19.md).
