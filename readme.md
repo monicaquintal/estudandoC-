@@ -41,7 +41,7 @@
 4. .NET:
 
     - [Instalação](./modulo01/aula20.md).
-    - dotnet cli
+    - [dotnet cli](./modulo01/aula21.md).
     - VS Code
     - Tipos de projeto
     - Fluxo de execução
