@@ -37,3 +37,14 @@
     - [LTS](./modulo01/aula17.md).
     - [Versionamento](./modulo01/aula18.md).
     - [Runtime e SDK](./modulo01/aula19.md).
+
+4. .NET:
+
+    - [Instalação](./modulo01/aula20.md).
+    - dotnet cli
+    - VS Code
+    - Tipos de projeto
+    - Fluxo de execução
+    - Variáveis de ambiente
+    - Estrutura do App
+    - Debug
