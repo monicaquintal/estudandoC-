@@ -43,7 +43,7 @@
     - [Instalação](./modulo01/04-dotnet/aula20.md).
     - [dotnet cli](./modulo01/04-dotnet/aula21.md).
     - [VS Code](./modulo01/04-dotnet/aula22.md).
-    - Tipos de projeto
+    - [Tipos de projeto](./modulo01/04-dotnet/aula23.md).
     - Fluxo de execução
     - Variáveis de ambiente
     - Estrutura do App

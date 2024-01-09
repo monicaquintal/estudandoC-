@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/monicaquintal" target="_blank"><img align="left" height="100" src="../assets/logo.png" /></a>
+<a href="https://github.com/monicaquintal" target="_blank"><img align="left" height="100" src="../../assets/logo.png" /></a>
 <h1>Módulo 01: Fundamentos do C#</h1>
 <h2>Linguagens e Compiladores</h2>
 <h3>Aula 03: Alto e baixo nível.</h3>
